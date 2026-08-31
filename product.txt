@@ -1,2 +1,3 @@
 Chuc nang quan ly san pham
 Hoan thanh feature product
+Nguoi thuc hien: Be Thang
